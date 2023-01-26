@@ -12,15 +12,15 @@ https://vampatars.vamp.sh/vamp
 
 You will receive a `png` image with a size of 256\*256px
 
-![Avatar for Vamp](https://vampatars.vamp.sh/edcullen)
+![Avatar for bat!](https://vampatars.vamp.sh/bat!)
 
 ### Custom Size
 
 ```
-https://vampatars.vamp.sh/edcullen?size=128
+https://vampatars.vamp.sh/bat!?size=128
 ```
 
-![Avatar for edcullen](https://vampatars.vamp.sh/edcullen?size=128)
+![Avatar for bat!](https://vampatars.vamp.sh/bat!?size=128)
 
 ### SVG
 
