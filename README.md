@@ -1,4 +1,4 @@
-# Vampatars ![](https://vampatars.vamp.sh/edcullen?size=20) ![](https://vampatars.vamp.sh/bat!?size=20) ![](https://vampatars.vamp.sh/dracula?size=20) ![](https://vampatars.vamp.sh/nosferatu?size=20) ![](https://vampatars.vamp.sh/vanhelsing?size=20)
+# Vampatars ![](https://vampatars.vamp.sh/edcullen?size=20) ![](https://vampatars.vamp.sh/bat!?size=20) ![](https://vampatars.vamp.sh/dracula?size=20) ![](https://vampatars.vamp.sh/laszlo?size=20) ![](https://vampatars.vamp.sh/vanhelsing?size=20)
 
 Generate Vampire avatars for your web applications. Used in https://www.vamp.sh 
 
