@@ -1,4 +1,4 @@
-# Vampatars ![](https://vampatars.vamp.sh/edcullen?size=20) ![](https://vampatars.vamp.sh/orlok?size=20) ![](https://vampatars.vamp.sh/dracula?size=20) ![](https://vampatars.vamp.sh/nosferatu?size=20) ![](https://vampatars.vamp.sh/vanhelsing?size=20)
+# Vampatars ![](https://vampatars.vamp.sh/edcullen?size=20) ![](https://vampatars.vamp.sh/bat!?size=20) ![](https://vampatars.vamp.sh/dracula?size=20) ![](https://vampatars.vamp.sh/nosferatu?size=20) ![](https://vampatars.vamp.sh/vanhelsing?size=20)
 
 Generate Vampire avatars for your web applications. Used in https://www.vamp.sh 
 
@@ -12,15 +12,15 @@ https://vampatars.vamp.sh/vamp
 
 You will receive a `png` image with a size of 256\*256px
 
-![Avatar for rauchg](https://vampatars.vamp.sh/vamp)
+![Avatar for Vamp](https://vampatars.vamp.sh/edcullen)
 
 ### Custom Size
 
 ```
-https://vampatars.vamp.sh/vamp?size=128
+https://vampatars.vamp.sh/edcullen?size=128
 ```
 
-![Avatar for rauchg](https://vampatars.vamp.sh/vamp?size=128)
+![Avatar for edcullen](https://vampatars.vamp.sh/edcullen?size=128)
 
 ### SVG
 
